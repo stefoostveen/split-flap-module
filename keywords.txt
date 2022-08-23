@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SplitFlapModule	KEYWORD1	SplitFlapModule
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+home	KEYWORD2
+set	KEYWORD2
+run	KEYWORD2
+curpos	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
